@@ -13,7 +13,7 @@ public class Hello {
         
         // Red Leader should add a print statement that says "Lock S-foils in attack position." 
        System.out.println("Lock S-foils in attack position.");
-
+       System.out.println("red is the best!!");
         // Gold Leader should add a print statement that says "Stabilize your rear deflectors... Watch for enemy fighters."
 
     }
