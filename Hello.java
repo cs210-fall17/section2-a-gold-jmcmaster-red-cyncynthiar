@@ -4,7 +4,6 @@ public class Hello {
 
         goldLeader();
         redLeader();
-        
         callSign();
 
     }
@@ -15,7 +14,10 @@ public class Hello {
        System.out.println("Lock S-foils in attack position.");
 
         // Gold Leader should add a print statement that says "Stabilize your rear deflectors... Watch for enemy fighters."
-
+		// Lets see if this comment
+		/*
+			Mass Comment
+		*/
     }
 
     public static void goldLeader() {
